@@ -1,8 +1,9 @@
 roger
 noela
-rita
+verita
 luma
 sivia
 steven
 pefok
 kevin
+vera
